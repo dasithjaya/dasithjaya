@@ -279,7 +279,6 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 </p>
 <p>
   <img
-    style="height: 195px; margin-top: 20px;"
     align="left"    
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dasithjaya&show_icons=true&locale=en&layout=compact"
     alt="dasithjaya"
