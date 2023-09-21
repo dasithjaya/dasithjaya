@@ -286,7 +286,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
   />
 </p>
 <p>
-  &nbsp;<img
+<img
     style="margin-top: -195px;"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=dasithjaya&show_icons=true&locale=en"
