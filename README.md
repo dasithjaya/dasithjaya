@@ -276,20 +276,3 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
       height="30"
       width="40"
   /></a>
-</p>
-<img
-    style="margin-top: -195px;"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=dasithjaya&show_icons=true&locale=en"
-    alt="dasithjaya"
-  />
-</p>
-<p>
-  <img
-    align="right"    
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dasithjaya&show_icons=true&locale=en&layout=compact"
-    alt="dasithjaya"
-  />
-</p>
-<p>
-
